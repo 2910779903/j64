@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="inf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/inf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/inf.jar!/" />
+    </SOURCES>
+  </library>
+</component>

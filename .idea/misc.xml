@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="E:/mybatis/mybatis-3-config.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="E:/mybatis/mybatis-3-mapper.dtd" />
+    <resource url="http://www.springframework.org/schema/aop" location="E:/schema/spring-aop-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans" location="E:/schema/spring-beans-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="E:/schema/spring-context-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc" location="E:/schema/spring-mvc-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tx" location="E:/schema/spring-tx-4.2.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
